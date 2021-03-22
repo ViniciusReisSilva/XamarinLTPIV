@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "I5HbEDULfp3DqOBDXPTjOCvKaOMfDqzsn8ELokopFihJDtK0ZrR+dM5Tu83bW/e2BBC79bKhSKysSX8uTq8zEg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Vinicius\\source\\repos\\ProjetoLTPIV\\ProjetoLTPIV\\ProjetoLTPIV.iOS\\ProjetoLTPIV.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.6.0.1141\\xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
